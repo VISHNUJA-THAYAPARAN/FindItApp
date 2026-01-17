@@ -1,0 +1,6 @@
+<resources>
+    <color name="primaryColor">#1E3A8A</color> <!-- Deep Blue -->
+    <color name="secondaryColor">#F3F4F6</color> <!-- Soft Gray -->
+    <color name="accentColor">#FB923C</color> <!-- Vibrant Orange -->
+    <color name="white">#FFFFFF</color>
+</resources>

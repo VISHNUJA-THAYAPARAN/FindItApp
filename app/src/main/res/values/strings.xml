@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FindIt</string>
+    <string name="get_started">Get Started</string>
+    <string name="app_quote">"Finding things has never been easier!"</string>
+    <string name="get_started_image">FindIt Illustration</string>
+    <string name="welcome_quote"> Welcome! Discover a smarter way to find what you need, effortlessly!</string>
+    <string name="password">PassWord</string>
+    <string name="username">User Name</string>
+    <string name="enter_password"> ..........</string>
+    <string name="enter_username"> Vishnuja@2002</string>
+    <string name="forgot_password"> forgot your Password? </string>
+    <string name="securityterm2"> Sorry! We cannot identify the Gold and diamond </string>
+    <string name="clue"> "The shoe shelf has 8 levels. From top to bottom,
+        the shoe is located on the 5th shelf, and from bottom to top,
+        it's located on the 3rd shelf.
+        It's the only gray-colored shoe set on that shelf,
+        and it’s the 5th one from the left." </string>
+    <string name="history1"> Item: "Red Running Shoes"
+        Description: Found on the 3rd shelf, 2nd pair from the left</string>
+
+
+</resources>
